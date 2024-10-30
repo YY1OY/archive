@@ -4,40 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "3440cb781272335c",
+        "id": "1926cd83e88a4525",
         "type": "tabs",
         "children": [
           {
-            "id": "5f19e6e0cbdeead1",
+            "id": "ec8339ffa6e73882",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "52490f68c1de3532",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.4"
+                "file": "فلسفة يونانية.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
+              "title": "فلسفة يونانية"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "فلسفة يونانية.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for فلسفة يونانية"
             }
           },
           {
@@ -128,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "فلسفة يونانية.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links from فلسفة يونانية"
             }
           },
           {
@@ -155,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "فلسفة يونانية.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of فلسفة يونانية"
             }
           },
           {
@@ -189,10 +173,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "52490f68c1de3532",
+  "active": "ec8339ffa6e73882",
   "lastOpenFiles": [
+    "فلسفة يونانية.canvas",
+    "فلسفة يونانية.md",
     "README.md",
-    "Untitled.canvas",
     "smali",
     "apk",
     "New folder"
